@@ -1,0 +1,26 @@
+.nav-container
+{
+    width: 1200px; height: 100px; background-color: #e6e6e6; display: flex; align-items: center; justify-content: center;
+}
+
+.text-design
+{
+    font-family: 'Great Vibes'; font-size: 40px; margin-right: 50px; 
+}
+
+a
+{
+    margin-right: 30px; text-decoration: none; color: rgb(0, 0, 0); font-family: sans-serif; transition: transform 0.5s ease-in, color 0.5s ease-in 0.1s; display: inline-block;
+}
+
+a:hover 
+{
+    transform: scale(1.2);
+
+    color: palevioletred;
+}
+
+button
+{
+    padding: 10px; width: 120px; border-radius: 6px; color: white; background-color: #6d6d6d; border: none; margin-left: 20px; 
+}

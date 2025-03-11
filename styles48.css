@@ -1,0 +1,114 @@
+.main-container
+{
+    width: 1050px; height: 500px; background-color: #3a3030; display: flex;
+}
+
+.divided-box
+{
+    width: 550px; height: 500px; background-color: #fafbfc;
+}
+
+.left
+{
+    background-color: #fafbfc; 
+}
+
+.box
+{
+    width: 200px; height: 300px; background-color: #fafbfc; 
+}
+
+.box-1
+{
+    width: 280px; height: 320px; background-color: #e8e8e8; margin-left: 20px; border-radius: 8px;
+}
+
+.body-box
+{
+    width: 500px; height: 400px; background-color: #fafbfc; display: flex;
+}
+
+.box img
+{
+    width: 198px; height: 220px; object-fit: cover; margin-top: 0 !important; display: block; border-bottom: none; border-radius: 8px 8px 0 0;
+}
+
+.text-box
+{
+    width: 190px; height: 100px; background-color: #dbb281; text-align: left; padding-left: 8px; margin-left: 5px; border-radius: 0 0 8px 8px;
+}
+
+.rectangle-box
+{
+    height: 80px; position: relative; padding-top: 9px;
+}
+
+img
+{
+    width: 90px; height: 70px; object-fit: cover; border-radius: 8px; margin-left: 5px; 
+}
+
+.text-box-1
+{
+    width: 180px; height: 70px; background-color: fafbfc; position: absolute; bottom: 10px; left: 100px; color: grey;
+}
+
+.text-box-1 span:nth-of-type(2)
+{
+    color: black; font-weight: bold;
+}
+
+.button
+{
+    position: absolute; bottom: 515px; left: 310px; padding: 10px; border: none; color: white; font-weight: bold; width: 120px; border-radius: 8px; background-color: #adadad;
+}
+
+.tabble-box
+{
+    width: 500px; height: 335px; background-color: rgb(231, 231, 231);  border-radius: 12px; 
+}
+
+table
+{
+    width: 100%; border-collapse: collapse; border: none;
+}
+
+td 
+{
+    padding: 12px; text-align: left; border-bottom: 1px solid grey;
+}
+
+tr:last-child td 
+{
+    border-bottom: none;
+}
+
+th 
+{
+    font-weight: bold; border-top: none; padding: 12px;
+}
+
+tr:hover 
+{
+    background: #dcdde1;
+}
+
+.club-logo 
+{
+    display: flex; align-items: center; gap: 10px;
+}
+
+.club-logo img 
+{
+    width: 20px; height: 20px;
+}
+
+.text-box span
+{
+    color: white; font-size: 12px; 
+}
+
+.text-box span:nth-of-type(2)
+{
+    font-size: 17px;
+}

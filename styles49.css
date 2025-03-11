@@ -1,0 +1,116 @@
+.main-container
+{
+    width: 1240px; height: 720px; background-color: #ffffff;
+}
+
+.title-box
+{
+     height: 10%; background-color: #ffffff; display: flex; justify-content: center; align-items: center; position: relative; border-bottom: 1px solid #d6d6d6; border-top: 1px solid #d6d6d6;
+}
+
+.limit-width
+{
+    width: 80%; display: flex; justify-content: center; align-items: center;
+}
+
+.title-box a
+{
+    color: black; font-size: 15px; text-decoration: none; margin-right: 20px; font-weight: bold; font-family: sans-serif;
+}
+
+.mini-design
+{
+    font-size: 18px; margin-right: 10px; color: #177fff; font-weight: bold; width: 150px; margin-left: auto; position: absolute;  right: -40px; font-family: sans-serif
+}
+
+.body-box
+{
+    width: 100%; height: 100%;  background-color: rgb(255, 255, 255); display: flex; 
+}
+
+.box-left
+{
+    width: 50%; height: 100%; background-color: rgb(255, 255, 255); position: relative; margin-top: 20px;
+}
+
+.box-left p
+{
+    font-size: 14px; position: absolute; bottom: 190px; left: 20px; font-family: sans-serif;
+}
+
+.box-right
+{
+    width: 50%; height: 100%; background-color: rgb(255, 255, 255); margin-top: 20px; display: flex;
+}
+
+.b-r-l
+{
+    width: 50%; height: 72%; background-color: rgb(255, 255, 255);
+}
+
+.b-r-l div
+{
+    font-size: 20px; font-weight: bold; font-family: sans-serif; padding: 5px; background-color: yellow; display: inline-block; margin-bottom: 20px;
+}
+
+.b-r-l span
+{
+    font-size: 20px; 
+}
+
+.b-r-r
+{
+    width: 50%; height: 72%; background-color: #f8f8f8; margin-left: 10px; position: relative;
+}
+
+.b-r-r div
+{
+    font-size: 20px; font-weight: bold; font-family: sans-serif; padding: 5px; background-color: yellow; display: inline-block;
+}
+
+.b-r-r h2
+{
+    padding: 0 10px 0 10px;
+}
+
+.b-r-r p
+{
+    font-size: 20px; padding: 0 10px 0 10px;
+}
+
+.b-r-r-footer
+{
+    width: 300px; height: 114px; background-color: rgb(255, 255, 255) !important;
+}
+
+img
+{
+    width: 600px; height: 400px; object-fit: cover;;
+}
+
+.box-text
+{
+    font-size: 30px; background-color: white; width: 500px; font-weight: bold; padding: 10px; position: absolute; bottom: 260px; left: 20px;
+}
+
+.btn-style-1
+{
+    color: #177fff; font-size: 18px; font-weight: bold; position: absolute; right: 0; border: none; background-color: #f8f8f8;
+}
+
+.btn-style-2
+{
+    background-color: #177fff; font-size: 18px; font-weight: bold; position: absolute; right: 0; border: none; color: white; padding: 10px; width: 100px;
+}
+
+h5 
+{
+    margin-bottom: 10px;
+}
+
+input
+{
+    border: none; padding: 10px;
+}
+
+
